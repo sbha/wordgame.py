@@ -14,7 +14,7 @@ setup(
     packages=['wordgame'],
     install_requires=[
           'pandas'
-      ]
+      ],
     author='A true artist',
     author_email='stuart.harty@email.com',
     keywords=['games', 'vocabulary'],
