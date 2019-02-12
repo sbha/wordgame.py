@@ -13,7 +13,7 @@ setup(
     license='MIT',
     packages=['wordgame'],
     install_requires=[
-          'pandas',
+          'pandas'
       ]
     author='A true artist',
     author_email='stuart.harty@email.com',
