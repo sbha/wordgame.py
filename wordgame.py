@@ -163,7 +163,7 @@ def restart():
 ### game play ###
 # start_game()
 
-wordgame('sho') 
+wordgame('chooses') 
 
 # shuffle()
 
